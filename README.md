@@ -1,7 +1,7 @@
 # INTRIVIA 2026 
 
 ## Identitas Diri 
-| Rafif Priyambodo | 265150307111061 | Teknik Komputer | Cluster 4 | 
+| Nama Lengkap | NIM | Program Studi | Cluster | 
 |--------------|-----|---------------|---------| 
 | [Rafif Priyambodo] | [265150307111061] | [Teknik Komputer] | [4] | 
 
@@ -18,3 +18,6 @@ Suasana di dalam cluster sangat hangat, kompak, dan saling mendukung. Pendamping
 
 Pesan:
 Semoga tali silaturahmi dan kekompakan di dalam cluster ini tetap terjalin erat hingga masa perkuliahan dimulai. Terima kasih banyak untuk para pendamping cluster atas dedikasi dan bimbingannya!
+
+## Harapan Kuliah
+Semoga saya dapat menjalani masa perkuliahan Teknik Komputer di Universitas Brawijaya dengan lancar, aktif berorganisasi, serta menguasai bidang keahlian embedded systems dan software engineering secara mendalam.
